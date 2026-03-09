@@ -1,4 +1,4 @@
-# QR Risk Scanner 🔍📱
+# QR Risk Scanner 
 
 QR Risk Scanner is an AI-powered web application that scans QR codes and analyzes the URLs inside them to detect potential security risks such as phishing, malicious websites, or suspicious links.
 
@@ -6,7 +6,7 @@ The system uses real-time QR detection and AI analysis to warn users before they
 
 ---
 
-# 🚀 Features
+#  Features
 
 ### Real-Time QR Code Scanning
 
@@ -29,7 +29,7 @@ No user data is stored. The URL is analyzed in real-time and discarded immediate
 
 ---
 
-# 🛠 Tech Stack
+#  Tech Stack
 
 Frontend
 
@@ -52,7 +52,7 @@ Other Tools
 
 ---
 
-# 📂 Project Structure
+#  Project Structure
 
 ```
 QR-Code-Risk-Scanner
@@ -109,7 +109,7 @@ https://aistudio.google.com/app/apikey
 
 ---
 
-# ▶️ Run the Project
+#  Run the Project
 
 Start the development server:
 
@@ -125,7 +125,7 @@ http://localhost:3000
 
 ---
 
-# ⚠️ Troubleshooting
+# Troubleshooting
 
 ### Camera Not Working
 
@@ -137,7 +137,7 @@ Check if your Gemini API key is correctly added in the `.env` file.
 
 ---
 
-# 🎯 Use Case
+#  Use Case
 
 QR Risk Scanner helps users stay safe from malicious QR codes commonly found in:
 
@@ -148,7 +148,7 @@ QR Risk Scanner helps users stay safe from malicious QR codes commonly found in:
 
 ---
 
-# 👩‍💻 Author
+#  Author
 
 Tisha Nandeshwar
 Purva Injalkar
@@ -160,7 +160,7 @@ https://github.com/tishaanandeshwar
 
 ---
 
-# ⭐ Future Improvements
+#  Future Improvements
 
 * Browser extension
 * Mobile application
